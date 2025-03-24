@@ -1,0 +1,3 @@
+final task request is
+
+GET /api/customers?page=0&size=5 (can be changed)
